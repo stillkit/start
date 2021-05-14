@@ -1,8 +1,1 @@
-HELLO !
-#include <stdio.h>
-
-int main()
-{
-  printf("hello world\n");
-  return 0;
-}
+镜像构建测试
